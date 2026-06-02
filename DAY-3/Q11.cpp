@@ -12,7 +12,7 @@ int main() {
         b = a % b;
         a = temp;
     }
-s
+
     cout << "GCD = " << a;
 
     return 0;
