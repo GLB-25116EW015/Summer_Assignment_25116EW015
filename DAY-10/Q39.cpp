@@ -13,6 +13,6 @@ int main() {
             cout << j;
         }
         cout << endl;
-    }s
+    }
     return 0;
 }
