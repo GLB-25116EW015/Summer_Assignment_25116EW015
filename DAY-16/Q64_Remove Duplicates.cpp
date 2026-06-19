@@ -17,7 +17,7 @@ int main(){
         }
         if (!duplicate){
             cout << arr[i] << " ";
-        }
+        } 
     }
     return 0;
 }
